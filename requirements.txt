@@ -1,0 +1,6 @@
+fastapi
+httpx
+openbb-ai
+pydantic-settings
+sse-starlette
+uvicorn
