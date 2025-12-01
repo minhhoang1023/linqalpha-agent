@@ -6,6 +6,9 @@ AI-powered financial research agent for OpenBB Workspace using LinqAlpha's APIs.
 
 This agent combines **LinqAlpha's** multi-agent AI platform for investment research with **OpenBB Workspace's** enterprise infrastructure for data visualization and workflow customization. LinqAlpha specializes in processing unstructured financial data from earnings transcripts, SEC filings, and regulatory documents, while OpenBB provides the secure, customizable interface for institutional research workflows. Together, the two solutions enable research teams to access specialized AI agents directly within OpenBB's platform, streamlining complex analysis from filing review to peer comparison in minutes. Learn more in this [blog post](https://openbb.co/blog/how-openbb-and-linqalpha-can-power-institutional-research-workflows).
 
+   ![LinqAlpha Agent 1](https://openbb-cms.directus.app/assets/e20366b7-0970-45bf-bcfe-f8e26c1f57fd.png)
+   ![LinqAlpha Agent 2](https://openbb-cms.directus.app/assets/498c5bd3-1789-4b37-9174-7701a024f69f.png)
+
 ## Features
 
 - **Search Chat**: Financial document search (transcripts, news, filings)
@@ -75,11 +78,11 @@ The agent should be accessible at `http://localhost:7777`
    - Enter the agent base URL: `http://localhost:7777`
    - OpenBB Workspace will automatically fetch the agent metadata from `/agents.json`
 
-   ![Add new agent](https://openbb-cms.directus.app/assets/412540b0-ef86-4285-8303-b9faf83bdc66.png)
+   ![Add new agent](https://openbb-cms.directus.app/assets/498c5bd3-1789-4b37-9174-7701a024f69f.png)
 
    - The agent will appear in your available agents list
 
-   ![Agent added successfully](https://openbb-cms.directus.app/assets/ce3bebd7-98cf-4598-9d6c-68a2ecc1ba1c.png)
+   ![Agent added successfully](https://openbb-cms.directus.app/assets/b80fcace-6d43-4f35-8f30-181c24ced26f.png)
 
 4. **Start Using the Agent**
 
